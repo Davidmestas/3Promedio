@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\3Promedio\3Promedio\bin\Debug\netcoreapp3.1\3Promedio.exe
+C:\Users\Acer\source\repos\3Promedio\3Promedio\bin\Debug\netcoreapp3.1\3Promedio.deps.json
+C:\Users\Acer\source\repos\3Promedio\3Promedio\bin\Debug\netcoreapp3.1\3Promedio.runtimeconfig.json
+C:\Users\Acer\source\repos\3Promedio\3Promedio\bin\Debug\netcoreapp3.1\3Promedio.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\3Promedio\3Promedio\bin\Debug\netcoreapp3.1\3Promedio.dll
+C:\Users\Acer\source\repos\3Promedio\3Promedio\bin\Debug\netcoreapp3.1\3Promedio.pdb
+C:\Users\Acer\source\repos\3Promedio\3Promedio\obj\Debug\netcoreapp3.1\3Promedio.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\3Promedio\3Promedio\obj\Debug\netcoreapp3.1\3Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\3Promedio\3Promedio\obj\Debug\netcoreapp3.1\3Promedio.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\3Promedio\3Promedio\obj\Debug\netcoreapp3.1\3Promedio.AssemblyInfo.cs
+C:\Users\Acer\source\repos\3Promedio\3Promedio\obj\Debug\netcoreapp3.1\3Promedio.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\3Promedio\3Promedio\obj\Debug\netcoreapp3.1\3Promedio.dll
+C:\Users\Acer\source\repos\3Promedio\3Promedio\obj\Debug\netcoreapp3.1\3Promedio.pdb
+C:\Users\Acer\source\repos\3Promedio\3Promedio\obj\Debug\netcoreapp3.1\3Promedio.genruntimeconfig.cache
